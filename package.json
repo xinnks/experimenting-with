@@ -1,0 +1,25 @@
+{
+  "name": "experimenting-with",
+  "version": "1.0.0",
+  "description": "A monorepo housing javascript projects to new technologies I tweak with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xinnks/experimenting-with.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "james sinkala <xinnks@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xinnks/experimenting-with/issues"
+  },
+  "homepage": "https://github.com/xinnks/experimenting-with#readme",
+  "devDependencies": {
+    "@moonrepo/cli": "^0.15.0"
+  }
+}
